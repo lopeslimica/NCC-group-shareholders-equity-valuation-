@@ -22,3 +22,7 @@ Develop Investment Strategies: Derive insights for optimizing shareholder return
 3) Learn to analyze the impact of market dynamics and corporate policies on investment products.
 4) Enhance skills in assessing the financial implications of mergers and acquisitions.
 5) Build a comprehensive perspective on balancing profitability, growth, and shareholder rewards in corporate finance.
+
+Path to follow- Word document ----> Excel sheet ------> Presentation
+
+Disclaimer This is academic report for educational purpose only and do not give any sort of recommendation .
